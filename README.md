@@ -147,7 +147,7 @@ The dataset contains information related to:
 
 Example:
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/PiyushNagarkar/Credit_Card_Report/blob/main/Transaction_Report.png)
 
 
 ---
@@ -156,8 +156,8 @@ Example:
 
 ### 👤 Piyush Satish Nagarkar
 
-* GitHub: (Add your GitHub profile link)
-* LinkedIn: (Add your LinkedIn profile link)
+* GitHub: (https://github.com/PiyushNagarkar)
+* LinkedIn: (https://www.linkedin.com/in/piyush-nagarkar-6184a0402/)
 
 ---
 
